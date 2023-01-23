@@ -1,0 +1,16 @@
+.salmon-style {
+    background-color: #fa8072;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#big-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+.text24px {
+    font-size: 24px;
+}
+#big-green-bold {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
