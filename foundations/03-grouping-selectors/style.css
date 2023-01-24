@@ -1,7 +1,12 @@
-.invert-default {
+.highlight-invert {
     background-color: black;
     color: white;
 }
 .highlight-yellow {
     background-color: yellow;
+}
+.highlight-invert,
+.highlight-yellow {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
