@@ -1,8 +1,11 @@
 .container {
+  display: flex; /* enable flex for all children (.box in this case). */
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+  justify-content: center; /* center div on the main axis. */
+  align-items: center; /* center div on cross axis. */
 }
 
 .box {
